@@ -1,0 +1,21 @@
+[
+{
+  "modid": "civilizationcraft",
+  "name": "Civilizationcraft",
+  "description": "Build your own ancient civilization, and advance toward the future!",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "SuperClicheUsername"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
