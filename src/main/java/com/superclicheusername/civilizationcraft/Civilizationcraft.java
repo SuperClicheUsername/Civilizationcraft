@@ -1,6 +1,7 @@
 package com.superclicheusername.civilizationcraft;
 
 import com.superclicheusername.civilizationcraft.handler.ConfigurationHandler;
+import com.superclicheusername.civilizationcraft.init.ModBlocks;
 import com.superclicheusername.civilizationcraft.init.ModItems;
 import com.superclicheusername.civilizationcraft.proxy.IProxy;
 import com.superclicheusername.civilizationcraft.reference.Reference;
@@ -27,6 +28,9 @@ public class Civilizationcraft {
 		FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
 
 		ModItems.init();
+
+		ModBlocks.init();
+
 		LogHelper.info("Pre Initialization Complete!");
 	}
 
