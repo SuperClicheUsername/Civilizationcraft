@@ -18,7 +18,11 @@ public class ModBlocks
 	public static final BlockCC OreMagnesium = new BlockOreMagnesium();
 	public static final BlockCC OreMithril = new BlockOreMithril();
 	public static final BlockCC OreNickel = new BlockOreNickel();
+	public static final BlockCC OrePhosphorus = new BlockOrePhosphorus();
+	public static final BlockCC OrePlatinum = new BlockOrePlatinum();
+	public static final BlockCC OreSaltpeter = new BlockOreSaltpeter();
 	public static final BlockCC OreSilver = new BlockOreSilver();
+	public static final BlockCC OreSulfur = new BlockOreSulfur();
 	public static final BlockCC OreThorium = new BlockOreThorium();
 	public static final BlockCC OreTin = new BlockOreTin();
 	public static final BlockCC OreTitanium = new BlockOreTitanium();
@@ -39,7 +43,11 @@ public class ModBlocks
 		GameRegistry.registerBlock(OreMagnesium, "oremagnesium");
 		GameRegistry.registerBlock(OreMithril, "oremithril");
 		GameRegistry.registerBlock(OreNickel, "orenickel");
+		GameRegistry.registerBlock(OrePhosphorus, "orephosphorus");
+		GameRegistry.registerBlock(OrePlatinum, "oreplatinum");
+		GameRegistry.registerBlock(OreSaltpeter, "oresaltpeter");
 		GameRegistry.registerBlock(OreSilver, "oresilver");
+		GameRegistry.registerBlock(OreSulfur, "oresulfur");
 		GameRegistry.registerBlock(OreThorium, "orethorium");
 		GameRegistry.registerBlock(OreTin, "oretin");
 		GameRegistry.registerBlock(OreTitanium, "oretitanium");
