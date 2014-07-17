@@ -1,5 +1,6 @@
 package com.superclicheusername.civilizationcraft.item;
 
+import com.superclicheusername.civilizationcraft.creativetab.CreativeTabCC;
 import com.superclicheusername.civilizationcraft.reference.Reference;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
@@ -13,6 +14,7 @@ public class ItemCC extends Item
 	{
 		super();
 		this.setMaxStackSize(64);
+		this.setCreativeTab(CreativeTabCC.CC_TAB);
 	}
 
 	@Override

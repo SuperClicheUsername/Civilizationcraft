@@ -179,6 +179,35 @@
     </option>
     <option name="PREFERRED_PROJECT_CODE_STYLE" value="Default (1)" />
   </component>
+  <component name="ProjectDictionaryState">
+    <dictionary name="SuperClicheUsername">
+      <words>
+        <w>civilizationcraft</w>
+        <w>mithril</w>
+        <w>orealuminum</w>
+        <w>orechromium</w>
+        <w>orecinnabar</w>
+        <w>orecobalt</w>
+        <w>orecopper</w>
+        <w>orelead</w>
+        <w>orelithium</w>
+        <w>oremagnesium</w>
+        <w>oremithril</w>
+        <w>orenickel</w>
+        <w>orephosphorus</w>
+        <w>oreplatinum</w>
+        <w>oresaltpeter</w>
+        <w>oresilver</w>
+        <w>oresulfur</w>
+        <w>orethorium</w>
+        <w>oretin</w>
+        <w>oretitanium</w>
+        <w>oretungsten</w>
+        <w>oreuranium</w>
+        <w>orezinc</w>
+      </words>
+    </dictionary>
+  </component>
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Civilizationcraft.iml" filepath="$PROJECT_DIR$/Civilizationcraft.iml" />

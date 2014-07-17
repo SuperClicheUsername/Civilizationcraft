@@ -1,5 +1,6 @@
 package com.superclicheusername.civilizationcraft.block;
 
+import com.superclicheusername.civilizationcraft.creativetab.CreativeTabCC;
 import com.superclicheusername.civilizationcraft.reference.Reference;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
@@ -12,13 +13,15 @@ public class BlockCC extends Block
 	public BlockCC(Material material)
 	{
 		super(material);
+		this.setHardness(3.0f);
+		this.setResistance(7.0f);
+		this.setHarvestLevel("pickaxe", 2);
+		this.setCreativeTab(CreativeTabCC.CC_TAB);
 	}
 
 	public BlockCC()
 	{
 		this(Material.rock);
-		this.setHardness(1.5f);
-		this.setResistance(10.0f);
 	}
 
 	@Override

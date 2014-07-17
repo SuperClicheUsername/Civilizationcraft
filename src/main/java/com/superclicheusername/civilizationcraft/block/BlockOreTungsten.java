@@ -9,5 +9,6 @@ public class BlockOreTungsten extends BlockCC
 		this.setResistance(7.0f);
 		this.setBlockName("oretungsten");
 		this.setBlockTextureName("oretungsten");
+		this.setHarvestLevel("pickaxe", 3);
 	}
 }

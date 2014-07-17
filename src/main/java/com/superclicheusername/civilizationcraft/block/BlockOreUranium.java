@@ -9,5 +9,6 @@ public class BlockOreUranium extends BlockCC
 		this.setResistance(7.0f);
 		this.setBlockName("oreuranium");
 		this.setBlockTextureName("oreuranium");
+		this.setHarvestLevel("pickaxe", 3);
 	}
 }

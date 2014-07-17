@@ -9,5 +9,6 @@ public class BlockOreThorium extends BlockCC
 		this.setResistance(7.0f);
 		this.setBlockName("orethorium");
 		this.setBlockTextureName("orethorium");
+		this.setHarvestLevel("pickaxe", 3);
 	}
 }

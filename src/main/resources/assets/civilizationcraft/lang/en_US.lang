@@ -1,6 +1,6 @@
-item.civilizationcraft:mapleLeaf.name=Maple Leaf of Awesomeness
+item.civilizationcraft:mapleLeaf.name=TEST Maple Leaf
 
-tile.civilizationcraft:flag.name=Canadian Flag of Awesomeness
+tile.civilizationcraft:flag.name=TEST Canadian Flag
 tile.civilizationcraft:orealuminum.name=Aluminum Ore
 tile.civilizationcraft:orechromium.name=Chromium Ore
 tile.civilizationcraft:orecinnabar.name=Cinnabar Ore
@@ -11,7 +11,11 @@ tile.civilizationcraft:orelithium.name=:Lithium Ore
 tile.civilizationcraft:oremagnesium.name=Magnesium Ore
 tile.civilizationcraft:oremithril.name=Mithril Ore
 tile.civilizationcraft:orenickel.name=Nickel Ore
+tile.civilizationcraft:orephosphorus.name=Phosphorus Ore
+tile.civilizationcraft:oreplatinum.name=Platinum Ore
+tile.civilizationcraft:oresaltpeter.name=Saltpeter Ore
 tile.civilizationcraft:oresilver.name=Silver Ore
+tile.civilizationcraft:oresulfur.name=Sulfur Ore
 tile.civilizationcraft:orethorium.name=Thorium Ore
 tile.civilizationcraft:oretin.name=Tin Ore
 tile.civilizationcraft:oretitanium.name=Titanium Ore
@@ -19,7 +23,4 @@ tile.civilizationcraft:oretungsten.name=Tungsten Ore
 tile.civilizationcraft:oreuranium.name=Uranium Ore
 tile.civilizationcraft:orezinc.name=Zinc Ore
 
-
-
-
-
+itemGroup.civilizationcraft=Civilizationcraft
