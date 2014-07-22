@@ -12,6 +12,7 @@ import cpw.mods.fml.common.SidedProxy;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
+import net.minecraftforge.oredict.OreDictionary;
 
 @Mod(modid = Reference.MOD_ID, name = Reference.MOD_NAME, version = Reference.MOD_VERSION)
 public class Civilizationcraft {
@@ -28,7 +29,6 @@ public class Civilizationcraft {
 		FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
 
 		ModItems.init();
-
 		ModBlocks.init();
 
 		LogHelper.info("Pre Initialization Complete!");
@@ -44,5 +44,9 @@ public class Civilizationcraft {
 	public void postInit(FMLPostInitializationEvent event)
 	{
 		LogHelper.info("Post Initialization Complete!");
+		for(String oreName : OreDictionary.getOreNames())
+		{
+			LogHelper.info(oreName);
+		}
 	}
 }

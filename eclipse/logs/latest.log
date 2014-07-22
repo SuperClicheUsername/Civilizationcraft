@@ -1,8 +1,8 @@
-[01:07:35] [main/INFO]: Setting user: ForgeDevName
-[01:07:36] [Client thread/INFO]: LWJGL Version: 2.9.1
-[01:07:39] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Civilizationcraft
-[01:07:40] [Sound Library Loader/INFO]: Sound engine started
-[01:07:40] [Client thread/ERROR]: Using missing texture, unable to load civilizationcraft:textures/blocks/oretitanium.png
+[21:32:26] [main/INFO]: Setting user: ForgeDevName
+[21:32:27] [Client thread/INFO]: LWJGL Version: 2.9.1
+[21:32:30] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Civilizationcraft
+[21:32:31] [Sound Library Loader/INFO]: Sound engine started
+[21:32:31] [Client thread/ERROR]: Using missing texture, unable to load civilizationcraft:textures/blocks/oretitanium.png
 java.io.FileNotFoundException: civilizationcraft:textures/blocks/oretitanium.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -32,7 +32,7 @@ java.io.FileNotFoundException: civilizationcraft:textures/blocks/oretitanium.png
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_60]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_60]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[01:07:40] [Client thread/ERROR]: Using missing texture, unable to load civilizationcraft:textures/blocks/orecobalt.png
+[21:32:31] [Client thread/ERROR]: Using missing texture, unable to load civilizationcraft:textures/blocks/orecobalt.png
 java.io.FileNotFoundException: civilizationcraft:textures/blocks/orecobalt.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -62,11 +62,11 @@ java.io.FileNotFoundException: civilizationcraft:textures/blocks/orecobalt.png
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_60]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_60]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[01:07:41] [Client thread/INFO]: Created: 512x512 textures/blocks-atlas
-[01:07:41] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[01:07:41] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Civilizationcraft
-[01:07:41] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[01:07:41] [Client thread/ERROR]: Using missing texture, unable to load civilizationcraft:textures/blocks/oretitanium.png
+[21:32:32] [Client thread/INFO]: Created: 512x512 textures/blocks-atlas
+[21:32:32] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[21:32:32] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Civilizationcraft
+[21:32:32] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[21:32:32] [Client thread/ERROR]: Using missing texture, unable to load civilizationcraft:textures/blocks/oretitanium.png
 java.io.FileNotFoundException: civilizationcraft:textures/blocks/oretitanium.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -99,7 +99,7 @@ java.io.FileNotFoundException: civilizationcraft:textures/blocks/oretitanium.png
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_60]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_60]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[01:07:41] [Client thread/ERROR]: Using missing texture, unable to load civilizationcraft:textures/blocks/orecobalt.png
+[21:32:32] [Client thread/ERROR]: Using missing texture, unable to load civilizationcraft:textures/blocks/orecobalt.png
 java.io.FileNotFoundException: civilizationcraft:textures/blocks/orecobalt.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -132,22 +132,22 @@ java.io.FileNotFoundException: civilizationcraft:textures/blocks/orecobalt.png
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_60]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_60]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[01:07:41] [Client thread/INFO]: Created: 512x512 textures/blocks-atlas
-[01:07:42] [Sound Library Loader/INFO]: Sound engine started
-[01:07:49] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[01:07:49] [Server thread/INFO]: Generating keypair
-[01:07:49] [Server thread/INFO]: Preparing start region for level 0
-[01:07:49] [Server thread/INFO]: Changing view distance to 12, from 10
-[01:07:50] [Server thread/INFO]: ForgeDevName[local:E:d73d97a7] logged in with entity id 156 at (277.56866033642183, 64.89070049944641, 155.0943061126416)
-[01:07:50] [Server thread/INFO]: ForgeDevName joined the game
-[01:07:57] [Server thread/INFO]: Saving and pausing game...
-[01:07:57] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[01:07:57] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[01:07:57] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[01:07:59] [Server thread/INFO]: Stopping server
-[01:07:59] [Server thread/INFO]: Saving players
-[01:07:59] [Server thread/INFO]: Saving worlds
-[01:07:59] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[01:07:59] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[01:07:59] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[01:08:01] [Client thread/INFO]: Stopping!
+[21:32:32] [Client thread/INFO]: Created: 512x512 textures/blocks-atlas
+[21:32:33] [Sound Library Loader/INFO]: Sound engine started
+[21:32:36] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[21:32:36] [Server thread/INFO]: Generating keypair
+[21:32:36] [Server thread/INFO]: Preparing start region for level 0
+[21:32:37] [Server thread/INFO]: Changing view distance to 12, from 10
+[21:32:37] [Server thread/INFO]: ForgeDevName[local:E:3218c395] logged in with entity id 154 at (277.56866033642183, 64.89070049944641, 155.0943061126416)
+[21:32:37] [Server thread/INFO]: ForgeDevName joined the game
+[21:32:42] [Server thread/INFO]: Saving and pausing game...
+[21:32:42] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[21:32:42] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[21:32:42] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[21:34:58] [Server thread/INFO]: Stopping server
+[21:34:58] [Server thread/INFO]: Saving players
+[21:34:58] [Server thread/INFO]: Saving worlds
+[21:34:58] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[21:34:58] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[21:34:58] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[21:34:59] [Client thread/INFO]: Stopping!
